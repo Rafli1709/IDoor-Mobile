@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">iDoor</string>
+    <string name="servicedesc">iDoor Services</string>
+    <string name="aiddescription">Key Door</string>
+
+    <!--  Description Image  -->
+    <string name="desc_logo">Logo iDoor</string>
+    <string name="desc_main">Image Phone with People and Some Plants</string>
+
+    <!--  Description Icon  -->
+    <string name="ic_forward">Arah Panah Kanan</string>
+    <string name="ic_backward">Arah Panah Kiri</string>
+    <string name="ic_add">Tambah</string>
+    <string name="ic_search">Cari</string>
+    <string name="ic_more">More Options</string>
+
+    <!--  Label Input  -->
+    <string name="input_name">Nama</string>
+    <string name="input_username">Username</string>
+    <string name="input_email">Email</string>
+    <string name="input_password">Password</string>
+    <string name="input_confirmation_password">Konfirmasi Password</string>
+    <string name="input_tool_name">Nama Alat</string>
+    <string name="input_email_user">Email User</string>
+
+    <!--  Button Text  -->
+    <string name="btn_main">Mulai Sekarang</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_submit">Submit</string>
+
+    <!--  Placeholder Inout  -->
+    <string name="placeholder_email">contoh@email.com</string>
+
+    <!--  Bottom Bar  -->
+    <string name="menu_home">Home</string>
+    <string name="menu_kelola_alat">Kelola Alat</string>
+    <string name="menu_kelola_user">Kelola User</string>
+    <string name="menu_history_akses">History</string>
+    <string name="menu_profile">Profile</string>
+
+    <!--  OnBoarding Page  -->
+    <string name="tagline">Rasakan pengalaman keamanan pintu yang lebih canggih!</string>
+
+    <!--  Login Page  -->
+    <string name="login">Log in</string>
+    <string name="question_login">Belum memiliki akun?</string>
+    <string name="title_login">Selamat Datang Kembali</string>
+    <string name="subtitle_login">Log in ke akun iDoor Anda</string>
+
+    <!--  Register Page -->
+    <string name="register">Register</string>
+    <string name="question_register">Sudah memiliki akun?</string>
+    <string name="title_register">Jadi Bagian dari iDoor</string>
+    <string name="subtitle_register">Daftarkan akun iDoor Anda</string>
+
+    <!--  Dashboard Page -->
+    <string name="logout">Logout</string>
+    <string name="hai_message">Hai,</string>
+    <string name="title_sum_user">Kepemilikan Alat</string>
+    <string name="title_sum_admin">Total</string>
+    <string name="title_history">Aktivitas Terbaru Alat</string>
+    <string name="sum_user">User</string>
+    <string name="sum_tools">Alat</string>
+    <string name="sum_owner">Dimiliki</string>
+    <string name="sum_borrowed">Dipinjam</string>
+
+    <!--  Manage User Page  -->
+    <string name="title_manage_user">Kelola User</string>
+    <string name="title_create_user">Tambah User</string>
+    <string name="title_update_user">Ubah User</string>
+
+    <!--  Manage Tools Page  -->
+    <string name="title_manage_tools">Kelola Alat</string>
+    <string name="title_create_tools">Tambah Alat</string>
+    <string name="title_update_tools">Ubah Alat</string>
+
+    <!--  Manage Tools Page  -->
+    <string name="title_manage_access">Kelola Hak Akses</string>
+    <string name="title_create_access">Tambah Hak Akses</string>
+    <string name="title_update_access">Ubah Hak Akses</string>
+</resources>
